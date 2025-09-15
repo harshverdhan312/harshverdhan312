@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshverdhan312" target="blank"><img src="https://img.shields.io/twitter/follow/harshverdhan312?logo=twitter&style=for-the-badge" alt="harshverdhan312" /></a> </p>
 
-- 🌱 I’m currently learning *Node JS*
+- 🌱 I’m currently learning *GO*
 
 - 👯 I’m looking to collaborate on [AKSH](https://github.com/harshverdhan312/AKSH.git)
 
 - 👨‍💻 All of my projects are available at [https://harshverdhan312.github.io/portfolio/](https://harshverdhan312.github.io/portfolio/)
 
-- 💬 Ask me about *Node, React, Python*
+- 💬 Ask me about *Node, React, Python, GO*
 
 - 📫 How to reach me *harshverdhansingh1@gmail.com*
 
@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshverdhan312&show_icons=true&locale=en" alt="harshverdhan312" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshverdhan312&" alt="harshverdhan312" /></p>
+
