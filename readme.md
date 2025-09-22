@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on @meetkatsorg<br>I'm currently learning GOLANG<br>I'm intermediate level developer in Python and Javascript
+I'm working on @MeetKatsCreations<br>I'm currently learning GOLANG<br>I'm an intermediate-level developer in Python and JavaScript
 
 
 ## 🌐 Socials:
@@ -25,3 +25,4 @@ I'm working on @meetkatsorg<br>I'm currently learning GOLANG<br>I'm intermediate
 [![](https://visitcount.itsvg.in/api?id=harshverdhan312&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
